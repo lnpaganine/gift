@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <title>Presente de natal</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+
+  <body>
+    <h1>
+      Acerte as notas da musica na gaita <br />
+      enquanto espera a gatinha <br>(clique nas notas flutuantews)
+    </h1>
+    <div id="butt"><button id="music" class="btn secondary">Start</button></div>
+    <br />
+    <div id="firstPage">
+      <canvas id="myCanvas" width="834" height="469"></canvas>
+    </div>
+    <br />
+    <div id="light"> &nbsp</div>
+    <div id="butt">
+      <a href="home.html"
+        ><button id="music" class="btn tertiary">Back</button></a
+      >
+      <a href="first.html"
+        ><button id="music" class="btn primary">Restart (stop)</button></a
+      >
+    </div>
+    <br>
+    <br>
+    <div id="arrows">
+      <button class="arr space disable-dbl-tap-zoom" disabled></button>
+      <button class="arr disable-dbl-tap-zoom" id="upArr" disabled>&#8593</button><br />
+      <button class="arr disable-dbl-tap-zoom" id="leftArr" disabled>&#8592</button>
+      <button class="arr space disable-dbl-tap-zoom" disabled></button>
+      <button class="arr disable-dbl-tap-zoom" id="rightArr" disabled>&#8594</button><br />
+      <button class="arr space disable-dbl-tap-zoom" disabled></button>
+      <button class="arr disable-dbl-tap-zoom" id="downArr" disabled>&#8595</button>
+    </div>
+    <script src="game.js"></script>
+  </body>
+</html>

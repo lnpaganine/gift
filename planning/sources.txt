@@ -1,0 +1,76 @@
+FASE 1
+
+telus background
+https://www.artstation.com/artwork/o2z5Qk
+
+telus building
+https://br.pinterest.com/pin/367676757054760376/
+
+telus logo
+https://www.facebook.com/photo/?fbid=617185273445401&set=a.617185243445404
+
+carro
+https://pixeljoint.com/pixelart/81033.htm
+
+sprites
+https://sanderfrenken.github.io/Universal-LPC-Spritesheet-Character-Generator/#?body=Body_color_light&head=Human_male_light
+
+notas musicais
+https://www.vectorstock.com/royalty-free-vector/set-of-pixel-style-musical-notes-vector-23749862
+
+tab de musica
+http://www.arpegemusic.com/manual36/FR120.10.gif
+
+triangulo amarelo
+https://www.gratispng.com/png-t9nxy7/
+
+checklist verde
+https://commons.wikimedia.org/wiki/File:Checkmark.svg
+
+xis vermelho
+https://www.clipartmax.com/middle/m2K9A0d3d3i8i8b1_red-wrong-cross-clip-art-at-clker-com-vector-clip-art-red/
+
+heart
+https://pixabay.com/illustrations/pixel-heart-heart-pixel-symbol-red-2779422/
+
+
+
+FASE 2
+
+road background
+https://www.shutterstock.com/pt/image-vector/pixel-art-game-background-road-ground-1132651748
+
+geleia
+https://www.geleiaburger.com/menu
+
+maria amelia
+https://www.facebook.com/mariaameliabolosedoces/
+
+sacola
+https://pixabay.com/vectors/bag-paper-brown-food-sack-24550/
+
+explosao
+https://www.pngegg.com/pt/png-keuch
+
+
+TOOLS
+
+to transform gif into sprite
+https://ezgif.com/
+
+to search for images
+https://google.com
+
+image editting
+https://www7.lunapic.com/
+
+to examine sprite
+https://pixspy.com/
+
+CODE SNIPPETS
+
+buttons style
+https://codepen.io/Brandon-Stoyles/pen/RajYmd
+
+light style
+https://codepen.io/fskirschbaum/pen/MYJNaj
